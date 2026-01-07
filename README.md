@@ -4,14 +4,14 @@ Bienvenido/a a mi repositorio de recursos interactivos. Este espacio está dedic
 ## 🚀 ¿Qué hay aquí?
 Este repositorio es una biblioteca de consulta y pruebas para:
 *   **Aprendizaje de IA:** Implementaciones y tutoriales (como tokenización de datasets y NLP).
-*   **Análisis de Datos:** Procesamiento, limpieza y visualización de información.
+*   **Análisis de Datos:** Procesamiento, limpieza y visualización de información (como ApacheBeam/Dataflow y BigQuery).
 *   **Scripts de Programación:** Prototipos y soluciones rápidas desarrollados en Python, Go, Javascript, etc.
 *   **Material Educativo:** Adaptaciones de cuadernos distribuidos públicamente por Google y otras fuentes técnicas.
 
 ## 📂 Estructura del Repositorio
 Para facilitar la navegación, los recursos se organizan de la siguiente manera:
 - `/ai-ml`: Pruebas y ejercicios de IA/ML para practicar conceptos teóricos.
-- `/bigdata`: Pruebas de limpieza, trasnformación, exploración de datos, SDKs, etc. 
+- `/bigdata`: Pruebas de limpieza, transformación, exploración de datos, SDKs, etc. 
 - `/programming`: Fragmentos de código de programación para pruebas rápidas interactivas.
 - `/snippets`: Fragmentos de código de cualquier tipo para pruebas rápidas interactivas.
 
