@@ -2,7 +2,7 @@
 Bienvenido/a a mi repositorio de recursos interactivos. Este espacio está dedicado al almacenamiento y organización de diversos **Jupyter Notebooks** enfocados en la programación, el análisis de datos y el aprendizaje de nuevas tecnologías, especialmente IA/ML.
 
 ## 🚀 ¿Qué hay aquí?
-Este repositorio es una biblioteca de consulta, incluyendo:
+Este repositorio es una biblioteca de consulta y pruebas para:
 *   **Aprendizaje de IA:** Implementaciones y tutoriales (como tokenización de datasets y NLP).
 *   **Análisis de Datos:** Procesamiento, limpieza y visualización de información.
 *   **Scripts de Programación:** Prototipos y soluciones rápidas desarrollados en Python, Go, Javascript, etc.
