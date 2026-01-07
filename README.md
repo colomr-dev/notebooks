@@ -34,6 +34,6 @@ Al tratarse de archivos estándar `.ipynb`, puedes ejecutarlos de dos formas:
 *   Pega la URL de este repositorio o de un Gist específico para cargarlo instantáneamente.
 
 #### B. En Local (JupyterLab / VS Code)
-Descarga el archivo *.ipynb o clona el repositorio:
+Descarga el archivo `*.ipynb` o clona el repositorio:
    ```bash
    git clone git@github.com:colomr-dev/notebooks.git
