@@ -17,7 +17,7 @@ Para facilitar la navegación, los recursos se organizan de la siguiente manera:
 
 ---
 
-## 🛠️ Guía de Uso: Cómo Trabajar con estos Archivos
+## 🛠️ Guía de Uso
 
 ### 1. Guardar y Sincronizar desde Google Colab
 Si estás editando uno de estos cuadernos en Colab y deseas salvar tus progresos aquí:
