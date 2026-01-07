@@ -10,7 +10,7 @@ Este repositorio es una biblioteca de consulta, incluyendo:
 
 ## 📂 Estructura del Repositorio
 Para facilitar la navegación, los recursos se organizan de la siguiente manera:
-- `/ml-ia`: Pruebas y ejercicios de IA/ML para practicar conceptos teóricos.
+- `/ai-ml`: Pruebas y ejercicios de IA/ML para practicar conceptos teóricos.
 - `/bigdata`: Pruebas de limpieza, trasnformación, exploración de datos, SDKs, etc. 
 - `/programming`: Fragmentos de código de programación para pruebas rápidas interactivas.
 - `/snippets`: Fragmentos de código de cualquier tipo para pruebas rápidas interactivas.
