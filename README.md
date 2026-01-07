@@ -36,4 +36,4 @@ Al tratarse de archivos estándar `.ipynb`, puedes ejecutarlos de dos formas:
 #### B. En Local (JupyterLab / VS Code)
 1. Descarga el archivo o clona el repositorio:
    ```bash
-   git clone ...
+   git clone git@github.com:colomr-dev/notebooks.git
